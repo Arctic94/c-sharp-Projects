@@ -1,0 +1,165 @@
+﻿
+
+body 
+{
+    background-color:#e5ffff;
+}
+
+header
+{
+    font-size:50px;
+    text-align:center;
+    width:1024px; /*ancho*/
+    font-weight: lighter;
+	background-color:#aaffff;
+	border:5px solid Black;
+	padding:20px; /*relleno*/
+	margin: auto;
+	border-radius:20px 20px 0px 0px;
+	border-bottom:0px;
+	color:#000099;
+	
+	
+    }
+    #navegacion
+    {
+        font-size:large;
+        text-align:center;
+        width:1024px; /*ancho*/
+    
+	    background-color:#2ecc71;
+	    border:5px solid Black;
+	    border-top:0px;
+	    border-bottom:0px;
+	    padding:20px; /*relleno*/
+	    margin: auto;
+	    border-radius:0px 0px 0px 0px;
+    	color:#000099;
+        }
+    #btnredir
+    {
+        display:inline-block;
+        vertical-align:top;
+        width:49%;
+  
+        }   
+    .simplebutton1
+    {
+        color: #fff;
+	background-color:#2ecc71;
+	height: 50px;
+	width: 340px;
+	padding:10px;
+	border:none 0px transparent;
+	font-size: 25px;
+	font-weight: lighter;
+	margin:10px;
+	
+	border-radius:  16px 16px 16px 16px;
+        } 
+    .simplebutton1:hover
+    {
+        transform:scale(1.1,1.1);
+        }        
+    #inicio
+    {
+        display:inline-block;
+        width:50%;
+    }
+    #img1
+    {
+        width:100%;
+        }   
+    #botycon
+    {    
+        font-size:25px;
+        text-align:center;
+        width:1024px; /*ancho*/
+	    background-color:#aaffff;
+	    border:5px solid Black;
+	    padding:20px; /*relleno*/
+	    margin: auto;
+	    border-top:0px;
+	    color:#000099;
+	    border-bottom:0px;
+	      
+        }
+        
+    #productos
+    {
+        display:inline-block;
+        width:50%;
+        
+        }
+    .prd
+    {
+        display:inline-block;
+        width:50%;
+        }  
+     .prd:hover
+    {
+        
+        transform:scale(1.2,1.2);
+        }    
+    .prdl
+    {
+       font-size:medium;
+       
+        }       
+        
+      
+     #contacto
+     {
+        display:inline-block;
+        width:50%;
+        font-size:medium;
+        text-align:left;
+        
+        
+         }
+    #Labelconsulta
+     {
+       
+         }   
+    .ct
+    {
+        display:inline-block;
+        width:50%;
+        text-align:right;
+        margin-bottom:10px;
+        vertical-align:top;
+        } 
+    .ctt
+    {
+        display:inline-block;
+        width:48%;
+        text-align:left;
+        margin-bottom:10px;
+        } 
+    #respuesta
+    {
+        display:inline-block;
+        width:50%;
+        font-size:medium;
+        text-align:left;
+        }
+     #nombre
+     {
+         
+         width:1024px;
+         text-align:right;
+          background-color:#aaffff;
+	    border:5px solid Black;
+	    padding:20px; /*relleno*/
+	    margin: auto;
+	    border-top:0px;
+	    color:#000099;
+	    border-radius:0px 0px 20px 20px;
+         }    
+         
+         
+         
+         
+         
+         
+    

@@ -1,0 +1,7 @@
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Solucion.Negocio\bin\Debug\Solucion.Negocio.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Solucion.Negocio\bin\Debug\Solucion.Negocio.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Solucion.Negocio\bin\Debug\Aplicacion.Datos.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Solucion.Negocio\bin\Debug\Aplicacion.Datos.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Solucion.Negocio\obj\Debug\Aplicacion.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Solucion.Negocio\obj\Debug\Solucion.Negocio.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Solucion.Negocio\obj\Debug\Solucion.Negocio.pdb

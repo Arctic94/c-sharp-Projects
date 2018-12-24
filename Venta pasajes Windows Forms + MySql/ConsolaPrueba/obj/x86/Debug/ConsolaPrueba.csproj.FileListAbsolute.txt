@@ -1,0 +1,40 @@
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.csprojResolveAssemblyReference.cache
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.pdb
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\bin\Debug\MySql.Data.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.pdb
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.pdb
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.exe
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.exe
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.csprojResolveAssemblyReference.cache
+G:\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.exe
+G:\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.pdb
+G:\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe
+G:\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.pdb
+G:\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.dll
+G:\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.dll
+G:\VentaPasajes\ConsolaPrueba\bin\Debug\MySql.Data.dll
+G:\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.pdb
+G:\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.pdb
+G:\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\bin\Debug\ConsolaPrueba.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\bin\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.exe
+D:\Usuarios\alumno\Escritorio\VentaPasajes\ConsolaPrueba\obj\x86\Debug\ConsolaPrueba.pdb

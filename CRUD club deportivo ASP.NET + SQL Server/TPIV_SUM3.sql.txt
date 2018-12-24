@@ -1,0 +1,37 @@
+set QUOTED_IDENTIFIER on
+go
+
+use master
+go
+
+create database solucion_fetach
+go
+
+use solucion_fetach
+go
+
+create table solucion_fetach.dbo.asociacion(
+id int primary key identity,
+nombre_asociacion nvarchar(50) not null,
+direccion nvarchar(200) not null
+)
+go
+
+create table solucion_fetach.dbo.arquero(
+rut nvarchar(13) primary key,
+nombre_completo nvarchar(150) not null,
+direccion nvarchar(200) not null,
+asociacion int not null,
+fecha_nacimiento datetime not null,
+al_dia bit not null,
+constraint fk_asociacion_arquero foreign key(asociacion)
+references asociacion(id)
+)
+go
+
+create table solucion_fetach.dbo.usuario(
+nombre_usuario nvarchar(50) primary key,
+nombre_completo nvarchar(70) not null,
+contrasenna nvarchar(70) not null
+)
+go

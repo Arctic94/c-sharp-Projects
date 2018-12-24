@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="solucion_fetachModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="solucion_fetachEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="arqueroes" EntityType="solucion_fetachModel.arquero" />
+    <EntitySet Name="asociacions" EntityType="solucion_fetachModel.asociacion" />
+    <EntitySet Name="usuarios" EntityType="solucion_fetachModel.usuario" />
+    <AssociationSet Name="fk_asociacion_arquero" Association="solucion_fetachModel.fk_asociacion_arquero">
+      <End Role="asociacion" EntitySet="asociacions" />
+      <End Role="arquero" EntitySet="arqueroes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="arquero">
+    <Key>
+      <PropertyRef Name="rut" />
+    </Key>
+    <Property Name="rut" Type="String" Nullable="false" MaxLength="13" Unicode="true" FixedLength="false" />
+    <Property Name="nombre_completo" Type="String" Nullable="false" MaxLength="150" Unicode="true" FixedLength="false" />
+    <Property Name="direccion" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <Property Name="asociacion" Type="Int32" Nullable="false" />
+    <Property Name="fecha_nacimiento" Type="DateTime" Nullable="false" />
+    <Property Name="al_dia" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="asociacion1" Relationship="solucion_fetachModel.fk_asociacion_arquero" FromRole="arquero" ToRole="asociacion" />
+  </EntityType>
+  <EntityType Name="asociacion">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_asociacion" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="direccion" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="arqueroes" Relationship="solucion_fetachModel.fk_asociacion_arquero" FromRole="asociacion" ToRole="arquero" />
+  </EntityType>
+  <EntityType Name="usuario">
+    <Key>
+      <PropertyRef Name="nombre_usuario" />
+    </Key>
+    <Property Name="nombre_usuario" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="nombre_completo" Type="String" Nullable="false" MaxLength="70" Unicode="true" FixedLength="false" />
+    <Property Name="contrasenna" Type="String" Nullable="false" MaxLength="70" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <Association Name="fk_asociacion_arquero">
+    <End Role="asociacion" Type="solucion_fetachModel.asociacion" Multiplicity="1" />
+    <End Role="arquero" Type="solucion_fetachModel.arquero" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="asociacion">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="arquero">
+        <PropertyRef Name="asociacion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

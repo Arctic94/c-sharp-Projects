@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="solucion_fetachModelStoreContainer" CdmEntityContainer="solucion_fetachEntities">
+    <EntitySetMapping Name="arqueroes">
+      <EntityTypeMapping TypeName="solucion_fetachModel.arquero">
+        <MappingFragment StoreEntitySet="arquero">
+          <ScalarProperty Name="rut" ColumnName="rut" />
+          <ScalarProperty Name="nombre_completo" ColumnName="nombre_completo" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="asociacion" ColumnName="asociacion" />
+          <ScalarProperty Name="fecha_nacimiento" ColumnName="fecha_nacimiento" />
+          <ScalarProperty Name="al_dia" ColumnName="al_dia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="asociacions">
+      <EntityTypeMapping TypeName="solucion_fetachModel.asociacion">
+        <MappingFragment StoreEntitySet="asociacion">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre_asociacion" ColumnName="nombre_asociacion" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuarios">
+      <EntityTypeMapping TypeName="solucion_fetachModel.usuario">
+        <MappingFragment StoreEntitySet="usuario">
+          <ScalarProperty Name="nombre_usuario" ColumnName="nombre_usuario" />
+          <ScalarProperty Name="nombre_completo" ColumnName="nombre_completo" />
+          <ScalarProperty Name="contrasenna" ColumnName="contrasenna" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,30 @@
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\bin\Debug\Pasajes.Datos.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\bin\Debug\Pasajes.Datos.pdb
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.Entity.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Web.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.csprojResolveAssemblyReference.cache
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.Entity.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Fabric.Plugin.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Web.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.Entity.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Fabric.Plugin.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\bin\Debug\MySql.Web.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Datos\obj\Debug\Pasajes.Datos.pdb

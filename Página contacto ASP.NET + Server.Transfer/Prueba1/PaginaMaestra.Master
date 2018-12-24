@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="Prueba1.PaginaMaestra" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+     <meta charset="utf-8">
+     <link rel="stylesheet" href="css/Style.css" type="text/css" media="all">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <title>titulo de pag maestra</title>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+    <form id="form1" runat="server">
+    <div>
+        <header>
+            <asp:Label ID="lblTitulo" runat="server" Text="Vendo Barateli"></asp:Label>
+        </header>
+    </div>
+
+    <div ID="navegacion">
+        <asp:Panel ID="Panel1" runat="server">
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+            </asp:SiteMapPath>
+            <br />
+            <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1">
+            </asp:Menu>
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        </asp:Panel>
+        
+
+    </div>
+
+    <div id="botycon">
+        
+        <div id="btnredir">
+        <asp:Button ID="btnInicio" CssClass="simplebutton1" OnClick="btnInicio_onClick" runat="server" Text="Inicio"/><br />
+        <asp:Button ID="btProductos" CssClass="simplebutton1" OnClick="btnProductos_onClick" runat="server" Text="Productos"/><br />
+        <asp:Button ID="btnContacto" CssClass="simplebutton1" OnClick="btnContacto_onClick" runat="server" Text="Contacto"/>
+        </div>
+
+        
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        esto sera reemplazado en el inicio
+        
+        </asp:ContentPlaceHolder>
+        
+        
+    </div>
+    
+    <div id="nombre">
+        <asp:Label ID="nombrecreador" runat="server" Text="Ignacio González"></asp:Label>
+    </div>
+    
+    </form>
+</body>
+</html>

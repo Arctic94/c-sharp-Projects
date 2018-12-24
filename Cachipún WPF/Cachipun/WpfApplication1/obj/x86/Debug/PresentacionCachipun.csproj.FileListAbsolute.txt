@@ -1,0 +1,29 @@
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\bin\Debug\Cachipun.dll
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\bin\Debug\Cachipun.pdb
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\PresentacionCachipun.csprojResolveAssemblyReference.cache
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\MainWindow.baml
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\App.g.cs
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\PresentacionCachipun.csproj.GenerateResource.Cache
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\bin\Debug\Cachipun.dll
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\bin\Debug\Cachipun.pdb
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\PresentacionCachipun.csprojResolveAssemblyReference.cache
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\PresentacionCachipun.csproj.GenerateResource.Cache
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\WpfApplication1\obj\x86\Debug\WpfApplication1_Content.g.cs

@@ -1,0 +1,8 @@
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\bin\Debug\PresentacionConsola.exe.config
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\bin\Debug\PresentacionConsola.exe
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\bin\Debug\PresentacionConsola.pdb
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\bin\Debug\Prueba1.exe
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\bin\Debug\Prueba1.pdb
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\obj\Debug\PresentacionConsola.csprojResolveAssemblyReference.cache
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\obj\Debug\PresentacionConsola.exe
+c:\Users\Arctic\documents\visual studio 2012\Projects\Prueba1\PresentacionConsola\obj\Debug\PresentacionConsola.pdb

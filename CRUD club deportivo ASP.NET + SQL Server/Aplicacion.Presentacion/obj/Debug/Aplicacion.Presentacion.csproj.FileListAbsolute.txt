@@ -1,0 +1,13 @@
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Aplicacion.Presentacion.dll
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Aplicacion.Presentacion.pdb
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\obj\Debug\Aplicacion.Presentacion.dll
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\obj\Debug\Aplicacion.Presentacion.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Aplicacion.Presentacion.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Aplicacion.Presentacion.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\obj\Debug\Aplicacion.Presentacion.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\obj\Debug\Aplicacion.Presentacion.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Solucion.Negocio.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Aplicacion.Datos.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Solucion.Negocio.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\bin\Aplicacion.Datos.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Presentacion\obj\Debug\Aplicacion.Presentacion.csprojResolveAssemblyReference.cache

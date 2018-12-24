@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="solucion_fetachModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="solucion_fetachModelStoreContainer">
+    <EntitySet Name="arquero" EntityType="solucion_fetachModel.Store.arquero" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="asociacion" EntityType="solucion_fetachModel.Store.asociacion" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="usuario" EntityType="solucion_fetachModel.Store.usuario" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="fk_asociacion_arquero" Association="solucion_fetachModel.Store.fk_asociacion_arquero">
+      <End Role="asociacion" EntitySet="asociacion" />
+      <End Role="arquero" EntitySet="arquero" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="arquero">
+    <Key>
+      <PropertyRef Name="rut" />
+    </Key>
+    <Property Name="rut" Type="nvarchar" Nullable="false" MaxLength="13" />
+    <Property Name="nombre_completo" Type="nvarchar" Nullable="false" MaxLength="150" />
+    <Property Name="direccion" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="asociacion" Type="int" Nullable="false" />
+    <Property Name="fecha_nacimiento" Type="datetime" Nullable="false" />
+    <Property Name="al_dia" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="asociacion">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_asociacion" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="direccion" Type="nvarchar" Nullable="false" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="usuario">
+    <Key>
+      <PropertyRef Name="nombre_usuario" />
+    </Key>
+    <Property Name="nombre_usuario" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="nombre_completo" Type="nvarchar" Nullable="false" MaxLength="70" />
+    <Property Name="contrasenna" Type="nvarchar" Nullable="false" MaxLength="70" />
+  </EntityType>
+  <Association Name="fk_asociacion_arquero">
+    <End Role="asociacion" Type="solucion_fetachModel.Store.asociacion" Multiplicity="1" />
+    <End Role="arquero" Type="solucion_fetachModel.Store.arquero" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="asociacion">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="arquero">
+        <PropertyRef Name="asociacion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

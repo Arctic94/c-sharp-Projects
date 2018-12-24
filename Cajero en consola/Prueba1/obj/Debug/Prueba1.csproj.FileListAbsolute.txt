@@ -1,0 +1,6 @@
+c:\users\arctic\documents\visual studio 2012\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+c:\users\arctic\documents\visual studio 2012\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+c:\users\arctic\documents\visual studio 2012\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+c:\users\arctic\documents\visual studio 2012\Projects\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+c:\users\arctic\documents\visual studio 2012\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+c:\users\arctic\documents\visual studio 2012\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.pdb

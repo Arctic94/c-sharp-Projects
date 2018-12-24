@@ -1,0 +1,9 @@
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\Cachipun\bin\Debug\Cachipun.dll
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\Cachipun\bin\Debug\Cachipun.pdb
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\Cachipun\obj\Debug\Cachipun.dll
+c:\users\alumnossur\documents\visual studio 2010\Projects\Cachipun\Cachipun\obj\Debug\Cachipun.pdb
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\Cachipun\bin\Debug\Cachipun.dll
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\Cachipun\bin\Debug\Cachipun.pdb
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\Cachipun\obj\Debug\Cachipun.csprojResolveAssemblyReference.cache
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\Cachipun\obj\Debug\Cachipun.dll
+C:\Users\Arctic\Desktop\progra 3\prueba 2 cachipun\Cachipun\Cachipun\obj\Debug\Cachipun.pdb

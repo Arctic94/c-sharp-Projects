@@ -1,0 +1,53 @@
+c:\users\alumnossur\documents\visual studio 2010\Projects\SolutionPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.exe
+c:\users\alumnossur\documents\visual studio 2010\Projects\SolutionPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.pdb
+c:\users\alumnossur\documents\visual studio 2010\Projects\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Form1.resources
+c:\users\alumnossur\documents\visual studio 2010\Projects\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Properties.Resources.resources
+c:\users\alumnossur\documents\visual studio 2010\Projects\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.csproj.GenerateResource.Cache
+c:\users\alumnossur\documents\visual studio 2010\Projects\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.exe
+c:\users\alumnossur\documents\visual studio 2010\Projects\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.pdb
+C:\Users\alumnossur\Desktop\tu vieja\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.exe
+C:\Users\alumnossur\Desktop\tu vieja\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.pdb
+G:\INACAP\Progra III\Prueba 3\tu vieja\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.exe
+G:\INACAP\Progra III\Prueba 3\tu vieja\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.pdb
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.exe
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.pdb
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.exe
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.pdb
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Form1.resources
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Properties.Resources.resources
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.csproj.GenerateResource.Cache
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\bin\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\SolutionPasajes\AplicacionPantalla\bin\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.exe
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.exe
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Form1.resources
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Properties.Resources.resources
+D:\Usuarios\alumno\Escritorio\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.csproj.GenerateResource.Cache
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.exe
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.pdb
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.exe
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\AplicacionPantalla.pdb
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Datos.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Negocio.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\MySql.Data.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Datos.pdb
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\Pasajes.Negocio.pdb
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.csprojResolveAssemblyReference.cache
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Form1.resources
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.Properties.Resources.resources
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\obj\x86\Debug\AplicacionPantalla.csproj.GenerateResource.Cache
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\AplicacionPantalla\bin\Debug\MySql.Fabric.Plugin.dll

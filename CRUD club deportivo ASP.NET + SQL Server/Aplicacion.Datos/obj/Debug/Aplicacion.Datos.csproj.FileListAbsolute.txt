@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.dll.config
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.dll
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.pdb
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\obj\Debug\Aplicacion.Datos.dll
+c:\users\hp\documents\visual studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\obj\Debug\Aplicacion.Datos.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.dll.config
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.pdb
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\obj\Debug\Aplicacion.Datos.dll
+C:\Users\Arctic\Documents\Visual Studio 2010\Projects\SolutionSumativa3\Aplicacion.Datos\obj\Debug\Aplicacion.Datos.pdb

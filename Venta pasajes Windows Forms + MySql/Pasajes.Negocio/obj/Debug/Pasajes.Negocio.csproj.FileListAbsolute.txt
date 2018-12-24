@@ -1,0 +1,40 @@
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.pdb
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\bin\Debug\MySql.Data.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.pdb
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.dll
+C:\Users\alumnossur\Desktop\Prueba 3\codigo doricito\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\Nueva carpeta\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.pdb
+G:\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.dll
+G:\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.pdb
+G:\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.dll
+G:\VentaPasajes\Pasajes.Negocio\bin\Debug\MySql.Data.dll
+G:\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.pdb
+G:\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.csprojResolveAssemblyReference.cache
+G:\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.dll
+G:\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\bin\Debug\MySql.Data.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.pdb
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.csprojResolveAssemblyReference.cache
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.dll
+D:\Usuarios\alumno\Escritorio\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.pdb
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Negocio.pdb
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\bin\Debug\MySql.Data.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\bin\Debug\Pasajes.Datos.pdb
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.dll
+C:\Users\Arctic\Desktop\fina progra 3\mail\VentaPasajes\Pasajes.Negocio\obj\Debug\Pasajes.Negocio.pdb

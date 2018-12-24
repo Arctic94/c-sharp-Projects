@@ -1,0 +1,5 @@
+c:\users\arctic\documents\visual studio 2010\Projects\Prueba1\Prueba1\bin\Prueba1.dll
+c:\users\arctic\documents\visual studio 2010\Projects\Prueba1\Prueba1\bin\Prueba1.pdb
+c:\users\arctic\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.dll
+c:\users\arctic\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Arctic\documents\visual studio 2010\Projects\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
